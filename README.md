@@ -15,7 +15,7 @@ Features:
 10. Daughterboard installed upside down (Unified Daughterboard by ai03)
 11. Incorporates heat sink brass insert
 
-![supported-layout](Supportedlayout.jpg)
+![supported-layout](Supported-layout.jpg)
 Screws:
 1. Top mount screws (8x): M3x5 pan head
 2. Case screws (6x): M3x10 socket head
