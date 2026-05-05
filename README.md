@@ -2,6 +2,8 @@
 A 3d-printed, modular, 60% mechanical keyboard case
 Designed by ht2660
 
+![Modulix-3d](Screenshot-2026-05-06-052230)
+
 Features:
 1. Compatible with standard 60% PCBs (including the Venom 60HE)
 2. Incorporates Plain60-flex mounting positions
