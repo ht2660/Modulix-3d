@@ -41,12 +41,13 @@ Tính năng:
 8. Có tạ đáy 
 9. Hỗ trợ feet đường kính 8mm
 10. Daughterboard được lắp úp ngược (Sử dụng mạch Unified Daughterboard của ai03)
+11. Hỗ trợ ốc ren cấy
 
 Ốc vít:
 1. Ốc top mount (8 con): Đầu dù M3x5
 2. Ốc case (6 con): Đầu trụ M3x10
 3. Ốc mạch daughterboard (4 con): Vít M2x5
-3. Ốc tạ (3con): Đầu chìm M3x5
+4. Ốc tạ (3con): Đầu chìm M3x5
 
 Lưu ý:
 Thiết kế này chưa được thử nghiệm thực tế; bạn tự chịu rủi ro khi sử dụng vì mục đích cá nhân. Dự án này được tạo ra chủ yếu dành cho những người thích (DIY) và người chơi hệ phím cơ có ngân sách eo hẹp.
