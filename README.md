@@ -6,7 +6,7 @@ Features:
 1. Compatible with standard 60% PCBs (including the Venom 60HE)
 2. Incorporates Plain60-flex mounting positions
 3. Supports multiple mounting styles (top mount, gasket mount, O-ring gasket mount)
-4. Supports multiple layouts (including HHKB, WKL, WK, ISO, and 10u spacebar)
+4. Supports multiple layouts (including HHKB, WKL, WK, ISO, and 10u spacebar) 
 5. Suitable for 3D printing (not suitable for CNC machining)
 6. 18mm front height
 7. 7-degree typing angle
