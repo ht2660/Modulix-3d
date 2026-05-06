@@ -14,7 +14,7 @@ Features:
 7. 7-degree typing angle
 8. Includes a weight
 9. Supports 8mm diameter feet
-10. Daughterboard installed upside down (Unified Daughterboard by ai03)
+10. Daughterboard installed upside down ( [Unified Daughterboard by ai03](https://github.com/Unified-Daughterboard/Unified-Daughterboard.git) )
 11. Incorporates heat sink brass insert
 
 ![supported-layout](Supported-layout.jpg)
