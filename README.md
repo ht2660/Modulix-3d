@@ -6,7 +6,7 @@ Designed by ht2660
 
 Features:
 1. Compatible with standard 60% PCBs (including the Venom 60HE)
-2. Incorporates Plain60-flex mounting positions
+2. Incorporates [Plain60-flex](https://github.com/evyd13/plain60-flex-edition.git) mounting positions 
 3. Supports multiple mounting styles (top mount, gasket mount, O-ring gasket mount)
 4. Supports multiple layouts (including HHKB, WKL, WK, ISO, and 10u spacebar) 
 5. Suitable for 3D printing (not suitable for CNC machining)
